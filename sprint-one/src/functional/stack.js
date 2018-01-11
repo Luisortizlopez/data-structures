@@ -8,7 +8,7 @@ var storage = {};
   someInstance.push = function(value) {
     storage[count] = value
     count++;
-  };   
+  };
 
   someInstance.pop = function() {
     count--;
@@ -28,3 +28,4 @@ if (count > 0){
 
   return someInstance;
 };
+// resub

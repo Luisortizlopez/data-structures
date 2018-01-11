@@ -29,4 +29,4 @@ var Queue = function() {
   };
 
   return someInstance;
-};
+}; //resub
